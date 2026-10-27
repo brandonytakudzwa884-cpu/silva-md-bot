@@ -99,7 +99,7 @@
 |:----:|--------|
 | **1** | Click **Deploy Now** → [host.silvatech.co.ke](https://host.silvatech.co.ke/new?template=https://github.com/SilvaTechB/silva-md-bot) |
 | **2** | Log in or create a Silva Host account |
-| **3** | Fill in `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
+| **3** | 5K7KXIJU`SESSION_ID`, `OWNER_NUMBER`, 263789276520`BOT_NAME` |
 | **4** | Click **Deploy** — bot goes live in seconds ✅ |
 
 </details>
@@ -113,7 +113,7 @@
 |:----:|--------|
 | **1** | [Fork the repo](https://github.com/SilvaTechB/silva-md-bot/fork) to your GitHub |
 | **2** | Open [silva-md-fork-checker.vercel.app](https://silva-md-fork-checker.vercel.app/) → click **Deploy to Heroku** |
-| **3** | Fill in `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
+| **3** | 5K7KXIJU`SESSION_ID`, `OWNER_NUMBER`,263789276520 `BOT_NAME` |
 | **4** | Click **Deploy App** — wait ~2 minutes |
 | **5** | Go to **More → View Logs** → confirm `✅ Connected to WhatsApp` |
 
@@ -129,7 +129,7 @@
 | **1** | [Fork the repo](https://github.com/SilvaTechB/silva-md-bot/fork) to your GitHub |
 | **2** | Go to [railway.app](https://railway.app) → **New Project → Deploy from GitHub** |
 | **3** | Select your forked repo |
-| **4** | Open **Variables** tab → add `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
+| **4** | Open **Variables** tab → add `SESSION_ID `,5K7KXIJU `OWNER_NUMBER`, 263789276520`BOT_NAME` |
 | **5** | Check logs for `✅ Connected to WhatsApp` |
 
 </details>
@@ -144,7 +144,7 @@
 | **1** | [Fork the repo](https://github.com/SilvaTechB/silva-md-bot/fork) to your GitHub |
 | **2** | Go to [app.koyeb.com](https://app.koyeb.com) → **Create App → GitHub** |
 | **3** | Select your fork · Set **Run command** to `node silva.js` |
-| **4** | Add `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` under **Environment Variables** |
+| **4** | 5K7KXIJU`SESSION_ID`, `OWNER_NUMBER`,263789276520 `BOT_NAME` under **Environment Variables** |
 | **5** | Click **Deploy** → check logs for `✅ Connected to WhatsApp` |
 
 </details>
@@ -158,7 +158,7 @@
 |:----:|--------|
 | **1** | Open or fork this project in Replit |
 | **2** | Go to **Tools → Secrets** |
-| **3** | Add `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` as secrets |
+| **3** | 5K7KXIJU`SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` as secrets |
 | **4** | Hit **Run** — look for `✅ Connected to WhatsApp` in the console |
 
 </details>
@@ -172,7 +172,7 @@
 |:----:|--------|
 | **1** | Open [host.talkdrove.com/share-bot/49](https://host.talkdrove.com/share-bot/49) |
 | **2** | Click **Host This Bot** |
-| **3** | Enter your `SESSION_ID` and `OWNER_NUMBER` |
+| **3** | 5K7KXIJU `SESSION_ID` and `OWNER_NUMBER` |263789276520
 | **4** | Click **Deploy** — bot goes live instantly ✅ |
 
 </details>
@@ -217,8 +217,8 @@ pm2 save && pm2 startup
 
 | Variable | Default | Description |
 |----------|:-------:|-------------|
-| `SESSION_ID` | **required** | Your WhatsApp session (from session generator) |
-| `OWNER_NUMBER` | auto | Your WhatsApp number with country code e.g. `254712345678` |
+| `SESSION_ID`5K7KXIJU | **required** | Your WhatsApp session (from session generator) |
+| `OWNER_NUMBER`263789276520 | auto | Your WhatsApp number with country code e.g. `254712345678` |
 | `BOT_NAME` | `Silva MD` | Bot display name |
 | `PREFIX` | `.` | Command prefix (`.` `,` `!` `/` or comma-separated) |
 | `MODE` | `public` | `public` · `private` · `group` · `inbox` |
