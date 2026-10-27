@@ -99,7 +99,7 @@
 |:----:|--------|
 | **1** | Click **Deploy Now** → [host.silvatech.co.ke](https://host.silvatech.co.ke/new?template=https://github.com/SilvaTechB/silva-md-bot) |
 | **2** | Log in or create a Silva Host account |
-| **3** | Fill in `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
+| **3** | `SESSION_ID`5K7KXIJU, `OWNER_NUMBER`, `BOT_NAME` |Bee 
 | **4** | Click **Deploy** — bot goes live in seconds ✅ |
 
 </details>
@@ -113,7 +113,7 @@
 |:----:|--------|
 | **1** | [Fork the repo](https://github.com/SilvaTechB/silva-md-bot/fork) to your GitHub |
 | **2** | Open [silva-md-fork-checker.vercel.app](https://silva-md-fork-checker.vercel.app/) → click **Deploy to Heroku** |
-| **3** | Fill in `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
+| **3** | 5K7KXIJU`SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
 | **4** | Click **Deploy App** — wait ~2 minutes |
 | **5** | Go to **More → View Logs** → confirm `✅ Connected to WhatsApp` |
 
